@@ -1,0 +1,3 @@
+[install]
+# Lockfile canônico do repo é o texto (bun.lock); bun.lockb está no .gitignore.
+saveTextLockfile = true
